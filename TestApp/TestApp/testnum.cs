@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TestApp
 {
-	class testnum
+	public static class testnum
 	{
 
 		public static int Calcul(int lot1, int lot2)

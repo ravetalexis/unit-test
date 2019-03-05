@@ -16,6 +16,7 @@ namespace TestApp
 			int resut = testnum.Calcul(lot1, lot2);
 
 			Console.WriteLine(resut);
+			Console.ReadLine();
 
 			
 		}

@@ -1,7 +1,6 @@
 D:\IMIE\Logiciel_Qualite\Unit-test\unit-test\TestApp\TestApp\bin\Debug\TestApp.exe.config
 D:\IMIE\Logiciel_Qualite\Unit-test\unit-test\TestApp\TestApp\bin\Debug\TestApp.exe
 D:\IMIE\Logiciel_Qualite\Unit-test\unit-test\TestApp\TestApp\bin\Debug\TestApp.pdb
-D:\IMIE\Logiciel_Qualite\Unit-test\unit-test\TestApp\TestApp\obj\Debug\TestApp.csprojAssemblyReference.cache
 D:\IMIE\Logiciel_Qualite\Unit-test\unit-test\TestApp\TestApp\obj\Debug\TestApp.csproj.CoreCompileInputs.cache
 D:\IMIE\Logiciel_Qualite\Unit-test\unit-test\TestApp\TestApp\obj\Debug\TestApp.exe
 D:\IMIE\Logiciel_Qualite\Unit-test\unit-test\TestApp\TestApp\obj\Debug\TestApp.pdb
