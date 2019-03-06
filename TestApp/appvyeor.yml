@@ -1,16 +1,8 @@
-﻿
-# version format
-version: 1.0.{build}
+﻿version: 1.0.{build}
 
-# Build worker image (VM template)
 image: Visual Studio 2017
-
-configuration: Debug
-
 
 build:
 
-  project: C:\projects\unit-test\TestApp\TestApp.sln
-  
-verbosity: minimal
+  verbosity: minimal
 
