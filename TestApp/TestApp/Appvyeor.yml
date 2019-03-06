@@ -5,7 +5,7 @@ version: 1.0.{build}
 # Build worker image (VM template)
 image: Visual Studio 2017
 
-configuration: Debug
+#configuration: Debug
 
 platform: x64
 
