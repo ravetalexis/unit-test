@@ -9,3 +9,9 @@ image: Visual Studio 2017
 
 platform: x64
 
+build:
+
+  project: C:\projects\unit-test\TestApp\TestApp.sln
+  
+verbosity: minimal
+
