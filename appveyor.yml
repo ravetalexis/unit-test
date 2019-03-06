@@ -6,7 +6,7 @@ before_build:
    -cmd : nuget restore
 
 build:
-
+  project: C:\projects\unit-test\TestApp\TestApp.sln
   verbosity: minimal
 
 
