@@ -3,7 +3,7 @@
 image: Visual Studio 2017
 
 before build:
-   - cmd: nuget restore
+   nuget restore
 
 build:
 
