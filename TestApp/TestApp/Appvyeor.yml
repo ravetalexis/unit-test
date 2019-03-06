@@ -10,8 +10,9 @@ version: 1.0.{build}
 # Build worker image (VM template)
 image: Visual Studio 2015
 
+configuration: Debug
+
 platform: x64
 
-clone: c\projects\unit-test
 
-configuration: Debug
+
