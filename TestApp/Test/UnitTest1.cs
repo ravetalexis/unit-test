@@ -14,7 +14,7 @@ namespace Test
 
 			int result = TestApp.testnum.Calcul(lot1, lot2);
 
-			Equals(30, result);
+			Assert.Equal(30, result);
 		}
 
 		[Fact]
@@ -25,7 +25,7 @@ namespace Test
 
 			int result = TestApp.testnum.Calcul(lot1, lot2);
 
-			Equals(50, result);
+			Assert.Equal(50, result);
 		}
 	}
 }
