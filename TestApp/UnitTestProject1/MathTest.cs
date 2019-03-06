@@ -15,7 +15,7 @@ namespace UnitTestProject1
 
 			int result = TestApp.testnum.Calcul(lot1, lot2);
 
-			Assert.AreEqual(50, result);
+			Assert.AreEqual(30, result);
 		}
 
 		[TestMethod]
