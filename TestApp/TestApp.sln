@@ -7,8 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApp", "TestApp\TestApp.
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2178FB16-FE64-4F62-8651-48D12816C280}"
 	ProjectSection(SolutionItems) = preProject
-		.travis.yml = .travis.yml
-		..\.travis.yml = ..\.travis.yml
+		..\appveyor.yml = ..\appveyor.yml
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{DB4B2758-9653-44AE-A6B8-A231E2FA9B38}"
